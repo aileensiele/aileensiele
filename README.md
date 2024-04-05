@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning Systems Programming and Computer Organization
-###  Human Computer Interaction 
+### Human Computer Interaction 
 ### Yale University
 
 <!--
