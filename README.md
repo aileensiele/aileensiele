@@ -1,6 +1,7 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Systems Programming and Computer Organization, Human Computer Interaction 
-
+### 🌱 I’m currently learning Systems Programming and Computer Organization
+###  Human Computer Interaction 
+### Yale University
 
 <!--
 **aileensiele/aileensiele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
